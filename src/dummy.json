@@ -1,0 +1,301 @@
+{
+  "about": {
+    "name": "Danyil Drala",
+    "title": "Senior Full stack Developer",
+    "subTitle": "I'm good at both frontend and backend website development",
+    "description1": "Forward-thinking full-stack software engineer with 4+ years of experience developing web applications and back-end systems.",
+    "description2": "Highly experienced in all aspects of the software development lifecycle and end-to-end project management, from concept through to development and delivery.",
+    "description3": "Proficient in writing reusable, testable, and efficient code to develop scalable, secure, and high-performance applications.",
+    "quote": "Summary"
+  },
+  "experience": [
+    {
+      "company_name": "DYTRON SLOVAKIA Ltd",
+      "summary": "DYTRON SLOVAKIA Ltd is a software development company that provides a range of services including web and mobile app development, cloud infrastructure, UX/UI design, and digital product strategy.",
+      "sequence": 1,
+      "startDate": "2024-04-03",
+      "endDate": "2025-01-03",
+      "jobTitle": "Full Stack Developer",
+      "jobLocation": "Bratislava, Slovakia",
+      "bulletPoints": [
+        "Streamlined processes by coordinating the transfer of 2,000+ entries of financial data from worldwide production subsidiaries to a single webbased reporting tool.",
+        "Developed 3 cross-platform web apps and web backend using diverse technology stacks such as JavaScript, React, Node, and PHP, leading to increased efficiency.",
+        "Provided good advices on setting up development environment.",
+        "Made improvement suggestions, and established and promoted development guidelines, best practices, and standards."
+      ]
+    },
+    {
+      "company_name": "Freelancing sites",
+      "summary": "I've experienced in freelancing sites from 2020.",
+      "sequence": 2,
+      "startDate": "2020-05-03",
+      "endDate": "2024-03-03",
+      "jobTitle": "Full stack developer",
+      "jobLocation": "Kosice, Slovakia",
+      "bulletPoints": [
+        "End-to-End Development: Managed all stages of the web development lifecycle—from ideation and architecture design to deployment and post-launch maintenance. Developed solutions that met both functional and aesthetic requirements.",
+        "Technology Stack Mastery: Worked extensively with modern frameworks and libraries, including React, Next.js, Vue.js, Node.js, Express, and Django. Leveraged both SQL and NoSQL databases (PostgreSQL, MongoDB) to handle complex data structures and optimize performance.",
+        "API Integration and Development: Built and consumed RESTful APIs and integrated third-party services to enhance web functionality and user experience.",
+        "Optimizing User Experiences: Focused heavily on creating responsive, intuitive, and seamless user interfaces using CSS3, JavaScript.",
+        "Code Quality & Testing: Ensured high standards of code quality, maintaining best practices in version control (Git) and using testing frameworks (Jest, Mocha) to ensure the stability of web applications."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "sequence": 1
+    },
+    {
+      "name": "CSS",
+      "sequence": 2
+    },
+    {
+      "name": "JavaScript",
+      "sequence": 3
+    },
+    {
+      "name": "PHP",
+      "sequence": 4
+    },
+    {
+      "name": "TypeScript",
+      "sequence": 5
+    },
+    {
+      "name": "React.js",
+      "sequence": 6
+    },
+    {
+      "name": "Next.js",
+      "sequence": 7
+    },
+    {
+      "name": "WordPress",
+      "sequence": 8
+    },
+    {
+      "name": "Vue.js",
+      "sequence": 9
+    },
+    {
+      "name": "Tailwind CSS",
+      "sequence": 10
+    },
+    {
+      "name": "Bootstrap",
+      "sequence": 11
+    },
+    {
+      "name": "Express.js",
+      "sequence": 12
+    },
+    {
+      "name": "Node.js",
+      "sequence": 13
+    },
+    {
+      "name": "Django",
+      "sequence": 14
+    },
+    {
+      "name": "MongoDB",
+      "sequence": 15
+    },
+    {
+      "name": "PostgreSQL",
+      "sequence": 16
+    },
+    {
+      "name": "MySQL",
+      "sequence": 17
+    },
+    {
+      "name": "Restful API",
+      "sequence": 18
+    }
+  ],
+  "portfolios": [
+    {
+      "title": "Didder Live",
+      "sequence": 1,
+      "image": {
+        "public_id": "https://www.didderlive.com/",
+        "url": "./Didder-1.png"
+      },
+      "description": "I developed this completely on my own.This website made by React and Next.js and uploaded on Vercel.",
+      "techStack": [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "MongoDB",
+        "TailwindCss",
+        "Express.js",
+        "Vercel"
+      ]
+    },
+    {
+      "title": "Vanly",
+      "sequence": 2,
+      "image": {
+        "public_id": "https://vanly.app/",
+        "url": "./Vanly-1.png"
+      },
+      "description": "Vanly's mission is providing safe overnight parking spots which offer the opportunity for beautiful experiences, meaningful connections, and sustainable world transformations.",
+      "techStack": [
+        "React.js ",
+        "Next.js ",
+        "Node.js ",
+        "Django",
+        "Python",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "title": "Autoinsp",
+      "sequence": 3,
+      "image": {
+        "public_id": "https://autoinsp.com/en/",
+        "url": "./Auto-1.png"
+      },
+      "description": "Autoinsp is the website that make you to discover automotive anti-fraud technology.",
+      "techStack": [
+        "Reactjs ",
+        "MongoDB",
+        "Express.js",
+        "Node.js",
+        "Material UI"
+      ]
+    },
+    {
+      "title": "DOGUE",
+      "sequence": 4,
+      "image": {
+        "public_id": "https://www.dogue.com.au/",
+        "url": "./Dogue-1.png"
+      },
+      "description": "DOGUE is a leading Australian canine couture brand founded in 1998 by Simone Kingston. Specializing in designer doggie fashion and hiih-end pet products, It has become Australia's foremost boutique dog retailer and service provider.",
+      "techStack": [
+        "Reactjs ",
+        "MongoDB",
+        "Express.js",
+        "Node.js",
+        "TailwindCss"
+      ]
+    },
+    {
+      "title": "HakimHub",
+      "sequence": 5,
+      "image": {
+        "public_id": "https://hakimhubweb.netlify.app/",
+        "url": "./Hakim-1.png"
+      },
+      "description": "This is a platform to connect doctors and hospitals to clients.",
+      "techStack": [
+        "Vue.js",
+        "Nuxt.js",
+        "Vuetify",
+        "Webpack",
+        "Vuex"
+      ]
+    },
+    {
+      "title": "Bext",
+      "sequence": 6,
+      "image": {
+        "public_id": "https://bext.vc/",
+        "url": "./Bext-1.png"
+      },
+      "description": "The Fintech that transforms, multiplies and facilitates your access to credit. I develop it by Vue.js for frontend, node.js for backend and postgreSQL for database.",
+      "techStack": [
+        "Vue.js",
+        "TailwindCss",
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "title": "ConDADO",
+      "sequence": 7,
+      "image": {
+        "public_id": "https://condadotacos.com/",
+        "url": "./Conda-1.png"
+      },
+      "description": "Condado Tacos is a restaurant that offers a diverse range of taco options, accommodating various taste preferences, from traditional to unconventional.",
+      "techStack": [
+        "WordPress",
+        "MySQL",
+        "PHP",
+        "Bootstrap",
+        "Restful API"
+      ]
+    },
+    {
+      "title": "Coriandershop",
+      "sequence": 8,
+      "image": {
+        "public_id": "https://coriandershop.com.ua/",
+        "url": "./Corian-1.png"
+      },
+      "description": "Online spice shop. Different product variations, beautiful and intuitive design.",
+      "techStack": [
+        "WordPress",
+        "MySQL",
+        "PHP",
+        "Bootstrap",
+        "Restful API"
+      ]
+    },
+    {
+      "title": "Ybg.com",
+      "sequence": 9,
+      "image": {
+        "public_id": "https://ybg.com.ua/",
+        "url": "./Ybg-1.png"
+      },
+      "description": "Management of construction projects of commercial, public and individual facilities from preparatory work to commissioning.",
+      "techStack": [
+        "WordPress",
+        "MySQL",
+        "PHP",
+        "Bootstrap",
+        "JQuery",
+        "Nginx"
+      ]
+    }
+  ],
+  "education": {
+    "name": "Slovak University of Technology in Bratislava",
+    "charge": "2022 - 2024",
+    "desc": "B.S. Computer Science",
+    "image": {
+      "public_id": "1708718346601-xldm.webp",
+      "url": "/university.jpg"
+    }
+  },
+  "strength": [
+    {
+      "jobTitle": "Team Work",
+      "bulletPoints": [
+        "I am not just committed to my own development.",
+        "I also care about helping other developers improve.",
+        "I am willing to teach, answer questions, and write documentation that favors teammates both in their business and in the wider developer community"
+      ]
+    },
+    {
+      "jobTitle": "Time management",
+      "bulletPoints": [
+        "Good time management allows me to accomplish more in a shorter period of time",
+        "It makes me take advantage of learning opportunities and helps me focus, which leads to more career success."
+      ]
+    },
+    {
+      "jobTitle": "Proactive",
+      "bulletPoints": [
+        "I am not afraid to offer new ideas for projects, workflow, or client's culture.",
+        "I do not hesitate to ask for help or guidance if I find something unclear"
+      ]
+    }
+  ]
+}
